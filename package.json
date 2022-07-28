@@ -5,7 +5,7 @@
   "main": "webpack.config.js",
   "scripts": {
     "watch": "webpack --watch -d --output ./target/classes/static/built/bundle.js",
-    "start": "node server.js"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
